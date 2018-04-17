@@ -1,5 +1,7 @@
 # 地方的孩子共學堂
 
+![Logo](https://github.com/kidspring/general/blob/master/res/img/banner.jpg)
+
 身為助人工作者，我們關注在家庭的代罪羔羊——孩子身上，我們發現，孩子只是父母的一面鏡子。
 
 身為教育工作者，我們也發現，每個孩子的狀況，都只是在顯現父母的影子。
